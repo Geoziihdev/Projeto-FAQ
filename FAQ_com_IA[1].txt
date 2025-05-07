@@ -121,3 +121,6 @@ A: Sim, para deslocamentos fora da cidade sede.
 - Quando não souber a resposta, o robô deve redirecionar para atendimento humano.
 - A IA deve entender sinônimos comuns usados por clientes (ex: “bolo falso” = estrutura cenográfica, “balão” = bexiga).
 - O objetivo principal é eliminar dúvidas iniciais e acelerar a conversão para orçamento formal.
+
+
+lllll
